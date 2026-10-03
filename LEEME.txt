@@ -1,0 +1,11 @@
+RESGUARDO — Plataforma de privacidad (demo)
+
+1. Descomprime el ZIP.
+2. Abre index.html en tu navegador.
+3. Si tu navegador restringe almacenamiento local, sirve la carpeta con: python -m http.server 8000 y abre http://localhost:8000
+
+Incluye todas las pantallas y datos ficticios. Los cambios se guardan en el navegador.
+Escaneos simulados; sin backend multiusuario ni crawler real.
+El CMP descargable es local: no bloquea trackers automaticamente ni envia registros a un servidor.
+Puedes consultar y descargar la arquitectura desde Configuracion.
+Para reportes PDF usa Reportes > Guardar como PDF.
